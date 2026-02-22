@@ -10,9 +10,7 @@ dist/
 build/
 .idea/
 .vscode/
-audio/*.wav
 audio/*.mp3
-audio/*.mp4
 audio/*.flac
 audio/*.ogg
 .DS_Store
